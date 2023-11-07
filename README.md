@@ -20,7 +20,7 @@ How the game works
 2. User then chooses a mixture of numbers and operations to achive the target number
 
 Screenshot of game
-![image](https://github.com/wandanialll/digitsCsLab/assets/123443949/f3c02e12-3c81-4780-b8df-5bd0566a3a44)
+   ![image](https://github.com/wandanialll/digitsCsLab/assets/123443949/f3c02e12-3c81-4780-b8df-5bd0566a3a44)
 
 
 Personal achievements
